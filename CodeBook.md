@@ -58,7 +58,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Getting_and_cleaning_data_w4/README.md at main · abhishektuteja01/Getting_and_cleaning_data_w4 · GitHub</title>
+  <title>Getting_and_cleaning_data_w4/CodeBook.md at main · abhishektuteja01/Getting_and_cleaning_data_w4 · GitHub</title>
     <meta name="description" content="Contribute to abhishektuteja01/Getting_and_cleaning_data_w4 development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -74,7 +74,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="E2C1:688D:6968C:9C95D:60AE81B8" data-pjax-transient="true"/><meta name="html-safe-nonce" content="9026746e8edc52b00037ead2e972e4ab44937dec9cc69a70f06f1fd457bf6ad6" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hYmhpc2hla3R1dGVqYTAxL0dldHRpbmdfYW5kX2NsZWFuaW5nX2RhdGFfdzQvZmluZC9tYWluIiwicmVxdWVzdF9pZCI6IkUyQzE6Njg4RDo2OTY4Qzo5Qzk1RDo2MEFFODFCOCIsInZpc2l0b3JfaWQiOiIzMjcxODY2Mjk0ODQwODI4NTk3IiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aC0xIiwicmVnaW9uX3JlbmRlciI6ImFwLXNvdXRoLTEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="8d79e5b1a012da95402133005eea9eeab5713af20830ae008abc5720a7296806" data-pjax-transient="true"/>
+  <meta name="request-id" content="E2BF:7F78:7227C1:8BECBC:60AE81A8" data-pjax-transient="true"/><meta name="html-safe-nonce" content="9026746e8edc52b00037ead2e972e4ab44937dec9cc69a70f06f1fd457bf6ad6" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hYmhpc2hla3R1dGVqYTAxL0dldHRpbmdfYW5kX2NsZWFuaW5nX2RhdGFfdzQvZmluZC9tYWluIiwicmVxdWVzdF9pZCI6IkUyQkY6N0Y3ODo3MjI3QzE6OEJFQ0JDOjYwQUU4MUE4IiwidmlzaXRvcl9pZCI6IjMyNzE4NjYyOTQ4NDA4Mjg1OTciLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoLTEiLCJyZWdpb25fcmVuZGVyIjoiYXAtc291dGgtMSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="6e30ea6892a3491c550f4c3f71a03c04398ec56cc9367192d7ab4dc865c00ee0" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:370430951" data-pjax-transient>
 
@@ -126,7 +126,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/CodeBook.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -183,7 +183,7 @@
                 <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
                   class="d-inline-block d-lg-none f5 color-text-white no-underline border color-border-tertiary rounded-2 px-2 py-1 mr-3 mr-sm-5"
                   data-target="nux-signup-candidates.signupAction"
-                  data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8941896717fa8f9e2de4e1a0495a317d4507675b52ccc95149e0d5a8940bd85c"
+                  data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4f616bf281b8aafed813dafd654636d71b0f852d14bb53836b831ced1b7035a4"
                 >
                   Sign&nbsp;up
                 </a>
@@ -333,7 +333,7 @@
             spellcheck="false"
             autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="ak3F4vrjdKSh7JXdJQGVXjcCNuiSBoRKt0L0f0tbEqZCuLoaFkh/znUdzvNroPT/qDmglanZIUZZC/dAUmkNzA==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="+Id0+7Bvo7lJihfhVei4pYv7lFtbJiC8qqOFcgrMd87QcgsDXMSo0517TM8bSdkEFMACJmD5hbBE6oZNE/5opA==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -487,9 +487,9 @@
 
           </div>
 
-        <a href="/login?return_to=%2Fabhishektuteja01%2FGetting_and_cleaning_data_w4%2Fblob%2Fmain%2FREADME.md"
+        <a href="/login?return_to=%2Fabhishektuteja01%2FGetting_and_cleaning_data_w4%2Fblob%2Fmain%2FCodeBook.md"
           class="HeaderMenu-link flex-shrink-0 no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b6add12c1a8b2385ff67779ac9f112217857e0d2fbdc456fb1ea80b0c1ce8eaa"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="bb1f7d0320ff9eebcb5a325b061619cc6425ca6249089210f4e6042b609abe29"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign in
         </a>
@@ -502,8 +502,8 @@
               <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=abhishektuteja01%2FGetting_and_cleaning_data_w4"
                 class="HeaderMenu-link flex-shrink-0 d-inline-block no-underline border color-border-tertiary rounded px-2 py-1"
                 data-target="nux-signup-candidates.signupAction"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b6add12c1a8b2385ff67779ac9f112217857e0d2fbdc456fb1ea80b0c1ce8eaa"
-                data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7ee7e91c15c180bbc87290fdbe1f0e51f32f48ecd00817fe0ef4071472ea772e"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="bb1f7d0320ff9eebcb5a325b061619cc6425ca6249089210f4e6042b609abe29"
+                data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="50ec28ddd9e7ca269aaea6c275da8eec4a618a741c2714fe7e8fda206caf02b3"
               >
                 Sign up
               </a>
@@ -589,7 +589,7 @@
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-      <a class="tooltipped tooltipped-s btn btn-sm" aria-label="You must be signed in to change notification settings" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="adcb0c851ab15afab8795ddf0e36b9763aa1e34fbb28c4265621e74deaf5299d" href="/login?return_to=%2Fabhishektuteja01%2FGetting_and_cleaning_data_w4">
+      <a class="tooltipped tooltipped-s btn btn-sm" aria-label="You must be signed in to change notification settings" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="364de4f91e766fdce940f16ac9e2752effbacc048f65d4ecb9a2d170ee22342a" href="/login?return_to=%2Fabhishektuteja01%2FGetting_and_cleaning_data_w4">
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-bell">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
 </svg>
@@ -598,7 +598,7 @@
   </li>
 
   <li>
-          <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:370430951,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="bab1e681a311fed02f057ef3f5022a4e8a58c46d69a3e0edd0c49a2f018dabb7" href="/login?return_to=%2Fabhishektuteja01%2FGetting_and_cleaning_data_w4">
+          <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:370430951,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="07f6f113ebdfbde881edf33dc5d5c2dbefee2f86ec02af2211982b10e023ea5b" href="/login?return_to=%2Fabhishektuteja01%2FGetting_and_cleaning_data_w4">
       <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-star v-align-text-bottom mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
@@ -613,7 +613,7 @@
   </li>
 
   <li>
-        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:370430951,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8783d3f29f906ac7364438a09fa25c338e4b63119a606f7d7d71caf836b8b73c" href="/login?return_to=%2Fabhishektuteja01%2FGetting_and_cleaning_data_w4">
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:370430951,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="16e0fe57a1fc78d75972667cceb6aba582a2e3620a8b0258b236b6879beb2f3e" href="/login?return_to=%2Fabhishektuteja01%2FGetting_and_cleaning_data_w4">
           <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
@@ -767,9 +767,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/abhishektuteja01/Getting_and_cleaning_data_w4/blob/12abda056fd92c83bea3157ed2a14d929962f337/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/abhishektuteja01/Getting_and_cleaning_data_w4/blob/12abda056fd92c83bea3157ed2a14d929962f337/CodeBook.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:1a8037541994ef74f461189cc53e67f9ed16ab98b2f6dee2ba77c04e39ade6a9 -->
+    <!-- blob contrib key: blob_contributors:v22:d8a0a34ed5d51e30b7e88ecd35a3cdb6139afb47eb0b350f0ed7b6b286c63055 -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -853,7 +853,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/{{ urlEncodedRefName }}/CodeBook.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -893,7 +893,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/{{ urlEncodedRefName }}/CodeBook.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -924,7 +924,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/abhishektuteja01/Getting_and_cleaning_data_w4"><span>Getting_and_cleaning_data_w4</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/abhishektuteja01/Getting_and_cleaning_data_w4"><span>Getting_and_cleaning_data_w4</span></a></span></span><span class="separator">/</span><strong class="final-path">CodeBook.md</strong>
       </h2>
       <a href="/abhishektuteja01/Getting_and_cleaning_data_w4/find/main"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -945,7 +945,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:370430951,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1fb7f4f5dc0086df0e116f3e51d66f91d8bb6af4d0f36c6d8b6240182bbf96ed" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/abhishektuteja01/Getting_and_cleaning_data_w4/find/main">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:370430951,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5febf53ef77c928cf130a7dfa6849a111cebd12a736a05af5e59c5543906d763" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/abhishektuteja01/Getting_and_cleaning_data_w4/find/main">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-text-secondary" aria-hidden="true">T</span>
 </a>            </li>
@@ -959,12 +959,12 @@
             </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy value="README.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+              <clipboard-copy value="CodeBook.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
                 Copy path
               </clipboard-copy>
             </li>
             <li>
-              <clipboard-copy value="https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/12abda056fd92c83bea3157ed2a14d929962f337/README.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
+              <clipboard-copy value="https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/12abda056fd92c83bea3157ed2a14d929962f337/CodeBook.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
                 </span>
@@ -977,7 +977,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/abhishektuteja01/Getting_and_cleaning_data_w4/contributors/main/README.md" class="commit-loader">
+      <include-fragment src="/abhishektuteja01/Getting_and_cleaning_data_w4/contributors/main/CodeBook.md" class="commit-loader">
         <div class="Box-header Box-header--blue d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1008,8 +1008,8 @@
 
       <details
   data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:370430951,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/README.md&quot;,&quot;user_id&quot;:null}}"
-  data-menu-hydro-click-hmac="a4882ab82429d11038478987582e8804c941e566d947ea2e55ccb71dd14d4be0"
+  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:370430951,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/CodeBook.md&quot;,&quot;user_id&quot;:null}}"
+  data-menu-hydro-click-hmac="99ba38045f4417a63de519cc78eef3ebe4ce88677e24d7568805f3af49f4dc0b"
   class="dropdown details-reset details-overlay"
 >
   <summary
@@ -1025,9 +1025,10 @@
     <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
       <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
 
-          <a role="menuitem" class="filter-item py-1 text-emphasized" style="padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:370430951,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2773559e33b24279b8a8029ee02c8416fe6d3154c34f361ec3159bd25dd307d2" href="#getting-and-cleaning-data-week4">Getting-and-cleaning-data-week4</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:370430951,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2773559e33b24279b8a8029ee02c8416fe6d3154c34f361ec3159bd25dd307d2" href="#files">Files:</a>
-          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:370430951,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2773559e33b24279b8a8029ee02c8416fe6d3154c34f361ec3159bd25dd307d2" href="#the-5-required-steps-are">The 5 required steps are:</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:370430951,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="df2eaa2aaaacf03cd9d279a0472203cd0d4b7b48d8fb77a99df3b05dc3701a91" href="#about-the-source-data">About the source data</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:370430951,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="df2eaa2aaaacf03cd9d279a0472203cd0d4b7b48d8fb77a99df3b05dc3701a91" href="#about-r-script">About R script</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:370430951,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="df2eaa2aaaacf03cd9d279a0472203cd0d4b7b48d8fb77a99df3b05dc3701a91" href="#only-all-the-variables-estimated-from-mean-and-standard-deviation-in-the-tidy-set-were-kept">Only all the variables estimated from mean and standard deviation in the tidy set were kept.</a>
+          <a role="menuitem" class="filter-item py-1 " style="padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:370430951,&quot;originating_url&quot;:&quot;https://github.com/abhishektuteja01/Getting_and_cleaning_data_w4/blob/main/CodeBook.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="df2eaa2aaaacf03cd9d279a0472203cd0d4b7b48d8fb77a99df3b05dc3701a91" href="#the-data-were-averaged-based-on-subject-and-activity-group">The data were averaged based on subject and activity group.</a>
       </div>
     </div>
   </details-menu>
@@ -1036,21 +1037,21 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      17 lines (12 sloc)
+      33 lines (24 sloc)
       <span class="file-info-divider"></span>
-    856 Bytes
+    1.38 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
 
     <div class="BtnGroup">
-      <a href="/abhishektuteja01/Getting_and_cleaning_data_w4/raw/main/README.md" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
+      <a href="/abhishektuteja01/Getting_and_cleaning_data_w4/raw/main/CodeBook.md" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
   
   Raw
   
 
 </a>
-        <a href="/abhishektuteja01/Getting_and_cleaning_data_w4/blame/main/README.md" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
+        <a href="/abhishektuteja01/Getting_and_cleaning_data_w4/blame/main/CodeBook.md" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
   
   Blame
   
@@ -1069,13 +1070,13 @@
 </svg>
           </a>
 
-          <a href="/login?return_to=%2Fabhishektuteja01%2FGetting_and_cleaning_data_w4%2Fblob%2Fmain%2FREADME.md" class="btn-octicon disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=%2Fabhishektuteja01%2FGetting_and_cleaning_data_w4%2Fblob%2Fmain%2FCodeBook.md" class="btn-octicon disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
           </a>
-          <a href="/login?return_to=%2Fabhishektuteja01%2FGetting_and_cleaning_data_w4%2Fblob%2Fmain%2FREADME.md" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=%2Fabhishektuteja01%2FGetting_and_cleaning_data_w4%2Fblob%2Fmain%2FCodeBook.md" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-trash">
     <path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path>
@@ -1102,12 +1103,12 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/abhishektuteja01/Getting_and_cleaning_data_w4/raw/main/README.md">
+            <a class="dropdown-item" href="/abhishektuteja01/Getting_and_cleaning_data_w4/raw/main/CodeBook.md">
               View raw
             </a>
           </li>
             <li>
-              <a class="dropdown-item" href="/abhishektuteja01/Getting_and_cleaning_data_w4/blame/main/README.md">
+              <a class="dropdown-item" href="/abhishektuteja01/Getting_and_cleaning_data_w4/blame/main/CodeBook.md">
                 View blame
               </a>
             </li>
@@ -1119,12 +1120,13 @@
 
 
         <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-getting-and-cleaning-data-week4" class="anchor" aria-hidden="true" href="#getting-and-cleaning-data-week4"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Getting-and-cleaning-data-week4</h1>
-<p>Contains R code, codebook, and tidy data set for the assignment.</p>
-<h2><a id="user-content-files" class="anchor" aria-hidden="true" href="#files"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Files:</h2>
-<p>CodeBook.md describes the how to use all the variables, data, and any transformations or work that was performed to clean up the data.</p>
-<p>run_analysis.R contains all the code to perform the analysis described in the 5 steps.</p>
-<h2><a id="user-content-the-5-required-steps-are" class="anchor" aria-hidden="true" href="#the-5-required-steps-are"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>The 5 required steps are:</h2>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><p>#This is the code book for the project</p>
+<h2><a id="user-content-about-the-source-data" class="anchor" aria-hidden="true" href="#about-the-source-data"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>About the source data</h2>
+<p>The source data are from the Human Activity Recognition Using Smartphones Data Set. A full description is available at the site where the data was obtained:
+<a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones" rel="nofollow">http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones</a>
+Here are the data for the project: <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" rel="nofollow">https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</a></p>
+<h2><a id="user-content-about-r-script" class="anchor" aria-hidden="true" href="#about-r-script"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>About R script</h2>
+<p>File with R code "run_analysis.R" performs the 5 following steps (in accordance assigned task of course work):</p>
 <ol>
 <li>Merges the training and the test sets to create one data set.</li>
 <li>Extracts only the measurements on the mean and standard deviation for each measurement.</li>
@@ -1132,7 +1134,22 @@
 <li>Appropriately labels the data set with descriptive variable names.</li>
 <li>From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.</li>
 </ol>
-<p>tidyData.txt is the output of the final step</p>
+<h3><a id="user-content-only-all-the-variables-estimated-from-mean-and-standard-deviation-in-the-tidy-set-were-kept" class="anchor" aria-hidden="true" href="#only-all-the-variables-estimated-from-mean-and-standard-deviation-in-the-tidy-set-were-kept"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Only all the variables estimated from mean and standard deviation in the tidy set were kept.</h3>
+<ul>
+<li>mean(): Mean value</li>
+<li>std(): Standard deviation</li>
+</ul>
+<h3><a id="user-content-the-data-were-averaged-based-on-subject-and-activity-group" class="anchor" aria-hidden="true" href="#the-data-were-averaged-based-on-subject-and-activity-group"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>The data were averaged based on subject and activity group.</h3>
+<p>Subject column is numbered sequentially from 1 to 30.
+Activity column has 6 types as listed below.</p>
+<ol>
+<li>WALKING</li>
+<li>WALKING_UPSTAIRS</li>
+<li>WALKING_DOWNSTAIRS</li>
+<li>SITTING</li>
+<li>STANDING</li>
+<li>LAYING</li>
+</ol>
 </article>
   </div>
 
